@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Latihan1InputUser</string>
+    <string name="title">Menjumlahkan 2 Bilangan</string>
+    <string name="my_hint1">Masukkan Bilangan Pertama</string>
+    <string name="my_hint2">Masukkan Bilangan Kedua</string>
+    <string name="btnResult">Hitung Bilangan</string>
+    <string name="my_result">Hasil Penjumlahan</string>
+</resources>
